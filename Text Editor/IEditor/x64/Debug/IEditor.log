@@ -1,0 +1,28 @@
+﻿  CString.cpp
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\cstring.cpp(933): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\cstring.cpp(945): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  DNode.cpp
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode.cpp(6): warning C4812: obsolete declaration style: please use 'DNode<T>::DNode' instead
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode.cpp(13): warning C4812: obsolete declaration style: please use 'DNode<T>::DNode' instead
+  DNode_Implementation.cpp
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode.cpp(6): warning C4812: obsolete declaration style: please use 'DNode<T>::DNode' instead
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode.cpp(13): warning C4812: obsolete declaration style: please use 'DNode<T>::DNode' instead
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode_implementation.cpp(4): warning C4099: 'DNode<CString>': type name first seen using 'struct' now seen using 'class'
+  c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode_implementation.cpp(4): note: see declaration of 'DNode<CString>'
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode.cpp(13): warning C4812: obsolete declaration style: please use 'DNode<CString>::DNode' instead
+  c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode.cpp(14): note: while compiling class template member function 'DNode<CString>::DNode(T)'
+          with
+          [
+              T=CString
+          ]
+  c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode_implementation.cpp(4): note: see reference to class template instantiation 'DNode<CString>' being compiled
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode.cpp(6): warning C4812: obsolete declaration style: please use 'DNode<CString>::DNode' instead
+  c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\dnode.cpp(7): note: while compiling class template member function 'DNode<CString>::DNode(void)'
+  Driver.cpp
+  IEditor.cpp
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\ieditor.cpp(262): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\ieditor.cpp(283): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\ieditor.cpp(152): warning C4715: 'IEditor::getCommand': not all control paths return a value
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\cstring.cpp(527): warning C4715: 'CString::operator==': not all control paths return a value
+  IEditor.vcxproj -> C:\Users\Muhammad Mehdi Ali\Desktop\PUCIT Files\4th Semester\Data Structures and Algorithms\IEditor 2\x64\Debug\IEditor.exe

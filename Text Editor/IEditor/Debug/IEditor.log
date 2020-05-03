@@ -1,0 +1,5 @@
+﻿  IEditor.cpp
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\ieditor.cpp(231): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\ieditor.cpp(247): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\muhammad mehdi ali\desktop\pucit files\4th semester\data structures and algorithms\ieditor 2\ieditor\ieditor.cpp(150): warning C4715: 'IEditor::getCommand': not all control paths return a value
+  IEditor.vcxproj -> C:\Users\Muhammad Mehdi Ali\Desktop\PUCIT Files\4th Semester\Data Structures and Algorithms\IEditor 2\Debug\IEditor.exe
